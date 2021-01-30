@@ -5,5 +5,5 @@
 
 
 <center>
- [[/docs/images/r-gallery.PNG|ALT TEXT]] 
- </center>
+ ![](https://raw.githubusercontent.com/kyle-w-brown/R-Gallery/main/docs/images/r-gallery.PNG){width=75%}
+</center>
