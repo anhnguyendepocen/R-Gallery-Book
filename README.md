@@ -1,9 +1,11 @@
 # R Gallery Book
 
+<br>
 
-https://kyle-w-brown.github.io/R-Gallery/
+Check out the Book [here](https://kyle-w-brown.github.io/R-Gallery/) 
 
+<br>
 
-<center>
+<p class="aligncenter">
  <img src="https://raw.githubusercontent.com/kyle-w-brown/R-Gallery/main/docs/images/r-gallery.PNG" width="75%" class="center">
-</center>
+</p>
