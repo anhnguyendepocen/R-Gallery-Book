@@ -5,5 +5,5 @@
 
 
 <center>
-  ![](docs/images/r-gallery.PNG)
+  ![](/docs/images/r-gallery.PNG)
  </center>
